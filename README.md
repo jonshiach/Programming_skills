@@ -34,7 +34,7 @@ To use these materials using Jupyter Notebook installed using Anaconda do the fo
 <img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Jupyter.png?raw=true" width=600 center='center'>
 
 ### CoCalc
-You can also use to use Jupyter Notebooks online using [CoCalc](https://cocalc.com) where you can upload, edit and run notebooks in the cloud. The advantage of using an online platform is that no installation is required and you can run your notebooks from any computer or mobile device with an internet connection. In addition to Jupyter Notebook, CoCalc also has some other software used in scientific computing such as $\LaTeX$, R and Sage. 
+You can also use to use Jupyter Notebooks online using [CoCalc](https://cocalc.com) where you can upload, edit and run notebooks in the cloud. The advantage of using an online platform is that no installation is required and you can run your notebooks from any computer or mobile device with an internet connection. In addition to Jupyter Notebook, CoCalc also has some other software used in scientific computing such as LaTeX, R and Sage. 
 
 To use these materials using Jupyter Notebook on CoCalc do the following:
 
