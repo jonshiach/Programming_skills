@@ -7,6 +7,8 @@ Manchester Metropolitan University
 ## Jupyter notebooks
 Python is a multipurpose programming language that is widely used for scientific computation and data analysis. Python is becomming more popular in the workplace as well as academia so it is a good idea to learn it to enhance your skillset.
 
+To download the materials click on this link: [https://github.com/drjonshiach/Python-materials/archive/master.zip](https://github.com/drjonshiach/Python-materials/archive/master.zip)
+
 These materials are designed to be covered in the following order:
 
 1. Python basics
