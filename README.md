@@ -31,11 +31,8 @@ To use these materials using Jupyter Notebook installed using Anaconda do the fo
 1. A web broswer window will open showing you the file structure of your machine. Navigate to the directory you use to store Jupyter Notebooks and click on the filename to open it.
 
 <img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Aconda_navigator.png?raw=true" width=600 align='center'>
-Anaconda Navigator
 
 <img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Jupyter.png?raw=true" width=600 center='center'>
-Jupyter Notebook
-
 
 ### CoCalc
 You can also use to use Jupyter Notebooks online using [CoCalc](https://cocalc.com) where you can upload, edit and run notebooks in the cloud. The advantage of using an online platform is that no installation is required and you can run your notebooks from any computer or mobile device with an internet connection. In addition to Jupyter Notebook, CoCalc also has some other software used in scientific computing such as $\LaTeX$, R and Sage. 
