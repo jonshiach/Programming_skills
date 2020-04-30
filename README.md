@@ -31,7 +31,6 @@ To use these materials using Jupyter Notebook installed using Anaconda do the fo
 1. A web broswer window will open showing you the file structure of your machine. Navigate to the directory you use to store Jupyter Notebooks and click on the filename to open it.
 
 <img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Aconda_navigator.png?raw=true" width=600 align='center'>
-
 <img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Jupyter.png?raw=true" width=600 center='center'>
 
 ### CoCalc
