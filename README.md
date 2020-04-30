@@ -1,9 +1,7 @@
-# Python-materials
+# Python materials
 
-Dr Jon Shiach
-
-Department of Computing and Mathematics
-
+Dr Jon Shiach</br>
+Department of Computing and Mathematics</br>
 Manchester Metropolitan University
 
 ## Jupyter notebooks
