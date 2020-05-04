@@ -17,13 +17,14 @@ These materials are designed to be covered in the following order:
 1. Loops
 1. Functions
 1. Plotting
+1. Example programs
 
 ## Jupyter notebooks
 The guidance material that you are using now will to teach you how to program in Python using **Jupyter Notebooks**. These are interactive pages which allow you to edit and run Python code within the document without having to use another software package. A Jupyter notebook file has the extension `.ipynb` and can be accessed and edited in a number of differents ways.
 
 ### Installing Python on your own machine using Anaconda
 
-Python is an open source which means it is free to download and use. The easiest way to install Python onto your own machine is to install [Anaconda](https://www.anaconda.com/distribution/) which is a suite of scientific programming tools which is available for most operating systems and is free to download and use. Acaconda includes two programes which we can use to write Python programes: **Jupyter Notebook** and **Spyder**. These materials use Jupyter notebooks to teach Python but Spyder is also useful for writing longer Python programs.
+Python is an open source which means it is free to download and use. The easiest way to install Python onto your own machine is to install [Anaconda](https://www.anaconda.com/distribution/) which is a suite of scientific programming tools which is available for most operating systems and is free to download and use. Acaconda includes two programs which we can use to write Python programs: **Jupyter Notebook** and **Spyder**. These materials use Jupyter notebooks to teach Python but Spyder is also useful for writing longer Python programs.
 
 To use these materials using Jupyter Notebook installed using Anaconda do the following (**note that Anaconda is already installed on PCs in the Faculty of Science and Engineering and on selected PCs in the library**):
 
@@ -31,9 +32,6 @@ To use these materials using Jupyter Notebook installed using Anaconda do the fo
 1. Locate and load **Anaconda Navigator**.
 1. Click on the **Launch** button underneath **Jupyter Notebook**
 1. A web broswer window will open showing you the file structure of your machine. Navigate to the directory you use to store Jupyter Notebooks and click on the filename to open it.
-
-<img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Aconda_navigator.png?raw=true" width=600 align='center'>
-<img src="https://github.com/drjonshiach/Python-Programming/blob/master/Images/Jupyter.png?raw=true" width=600 center='center'>
 
 ### CoCalc
 You can also use to use Jupyter Notebooks online using [CoCalc](https://cocalc.com) where you can upload, edit and run notebooks in the cloud. The advantage of using an online platform is that no installation is required and you can run your notebooks from any computer or mobile device with an internet connection. In addition to Jupyter Notebook, CoCalc also has some other software used in scientific computing such as LaTeX, R and Sage. 
