@@ -12,6 +12,7 @@ To download the materials click on this link: [https://github.com/drjonshiach/Py
 These materials are designed to be covered in the following order:
 
 1. Python basics
+1. Symbolic mathematics
 1. Arrays
 1. If statements
 1. Loops
